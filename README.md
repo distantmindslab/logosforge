@@ -145,15 +145,6 @@ For every update:
 6. Install or replace the previous application.
 7. Confirm that projects, Drafter pages, PSYKE entries, comments, and Progressions are present.
 
-## Known limitations
-
-- Whiteboard remains alpha software.
-- Packages are currently unsigned and unnotarized.
-- macOS releases are Intel x64 only.
-- There is no built-in cloud synchronization or real-time collaboration.
-- AI features require a separately configured local or hosted provider.
-- `.lfbundle` files are export-only in Whiteboard.
-
 ## Reporting a problem
 
 Use the repository’s [Issues page](../../issues) and include:
